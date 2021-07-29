@@ -3,14 +3,10 @@
         <h1>Aktuelles</h1>
 
         <ContentTile>
-          <h2>Einstricken</h2>
-          <p>
-            Derzeit findet man uns im Weingarten beim "Einstricken". Wir sorgen dafür, dass sich alle Triebe im Drahtgerüst befinden und eine hohe und schöne Laubwand bilden.<br>
-            Vor allem unser Hochsteiner macht seinem Namen Ehre und wächst, wie in diesem Bild ersichtlich, hoch hinaus.
-          </p>
+          <h2>Offene Kellertür</h2>
           <img class="img-fluid"
-                     :src="require('../../images/202107_weingarten.jpg')"
-                     alt="Einstricken im Weingarten des Winzerhof Wursts">
+                     :src="require('../../images/202108_okt.jpg')"
+                     alt="Offene Kellertür am Winzerhof Wurst. Vom 12. bis 15. August 2021 verwühnen wir euch in unserem Presshaus mit Wein und hausgemachten Schmankerln.">
         </ContentTile>
 
         <ContentTile>
