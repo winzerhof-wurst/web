@@ -3,9 +3,25 @@
         <h1>Aktuelles</h1>
 
         <ContentTile>
-          <h2>Offene Kellertür</h2>
+          <h2>Ernte 2021</h2>
+          <p>
+            Jetzt ist die Zeit gekommen, wo unsere Arbeit Früchte trägt. Letzte Woche haben wir unsere ersten Kürbisse für unser Kürbiskernöl geerntet und diese Woche beginnen wir mit der Weinlese. In ein paar Tagen wird es wieder stürmisch in unserem Keller sein.
+          </p>
           <img class="img-fluid"
-                     :src="require('../../images/202108_okt.jpg')"
+                     :src="require('../../images/202109_ernte_1.jpg')"
+                     alt="Kürbisernte">
+          <img class="img-fluid"
+                     :src="require('../../images/202109_ernte_2.jpg')"
+                     alt="Traubenernte">
+        </ContentTile>
+
+        <ContentTile>
+          <h2>Wir sind im Salon 2021</h2>
+          <p>
+            Unser Weinviertel DAC Hochsteiner 2020 hat sich in Österreichs härtestem Weinwettbewerb bewiesen und zählt nun zu den Besten 270 Weinen des Landes. Wir freuen uns riesig über diese Auszeichnung.
+          </p>
+          <img class="img-fluid"
+                     :src="require('../../images/202108_salon.jpg')"
                      alt="Offene Kellertür am Winzerhof Wurst. Vom 12. bis 15. August 2021 verwühnen wir euch in unserem Presshaus mit Wein und hausgemachten Schmankerln.">
         </ContentTile>
 
