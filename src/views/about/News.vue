@@ -3,16 +3,13 @@
         <h1>Aktuelles</h1>
 
         <ContentTile>
-          <h2>Ernte 2021</h2>
+          <h2>Leserhahn</h2>
           <p>
-            Jetzt ist die Zeit gekommen, wo unsere Arbeit Früchte trägt. Letzte Woche haben wir unsere ersten Kürbisse für unser Kürbiskernöl geerntet und diese Woche beginnen wir mit der Weinlese. In ein paar Tagen wird es wieder stürmisch in unserem Keller sein.
+            An unserem letzten Lesetag wurde heute unser Traminer gelesen. Somit sind alle Trauben im Keller und die Ernte 2021 ist abgeschlossen. Wir freuen uns bereits auf die weiteren Arbeitsschritte im Keller um euch im Frühjahr unsere neuen Weine präsentieren zu können.
           </p>
           <img class="img-fluid"
-                     :src="require('../../images/202109_ernte_1.jpg')"
+                     :src="require('../../images/202110_leserhahn.jpg')"
                      alt="Kürbisernte">
-          <img class="img-fluid"
-                     :src="require('../../images/202109_ernte_2.jpg')"
-                     alt="Traubenernte">
         </ContentTile>
 
         <ContentTile>
