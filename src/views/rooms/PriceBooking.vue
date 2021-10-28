@@ -19,19 +19,19 @@
             <tbody>
               <tr>
                 <td>Sonntag bis Donnerstag</td>
-                <td>€30,50</td>
-              </tr>
-              <tr>
-                <td>Donnerstag bis Sonntag und Feiertag</td>
                 <td>€33,50</td>
               </tr>
               <tr>
+                <td>Donnerstag bis Sonntag und Feiertag</td>
+                <td>€36,50</td>
+              </tr>
+              <tr>
                 <td>Einbettzimmer</td>
-                <td>€38,50</td>
+                <td>€41,50</td>
               </tr>
               <tr>
                 <td>Aufpreis f&uuml;r eine Nacht</td>
-                <td>€8,-</td>
+                <td>€10,-</td>
               </tr>
               <tr>
                 <td>Kinder im Zimmer der Eltern**</td>
@@ -52,7 +52,7 @@
             <tbody>
               <tr>
                 <td>Pro Person und Nacht</td>
-                <td>€48,50</td>
+                <td>€51,50</td>
               </tr>
             </tbody>
           </table>

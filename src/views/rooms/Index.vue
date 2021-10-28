@@ -7,7 +7,7 @@
             <p>
                 Getreu unserem Motto
                 <i>"Komm als Gast und geh als Freund"</i> ist es unser Bestreben, Sie bestm&ouml;glich zu verw&ouml;hnen und Ihren Aufenthalt
-                bei uns zu einem unvergesslichen Erlebnis zu machen. Genie&szlig;en Sie die Tage in unserem Haus in den 3 Zimmern mit allem
+                bei uns zu einem unvergesslichen Erlebnis zu machen. Genie&szlig;en Sie die Tage in unserem Haus in den drei Doppelzimmern oder dem Genie&szlig;erzimmer mit allem
                 Komfort - ausgezeichnet mit 4 Blumen - und Blick auf den liebevoll restaurierten Innenhof.
             </p>
             <p>
@@ -33,9 +33,6 @@
                 Wenn Sie Aktivit&auml;ten suchen, bietet das gut ausgebaute, beschilderte Radnetz des Retzer Landes Gelegenheit dazu.
                 <a target="_blank" href="http://www.openstreetmap.org/?mlat=48.7169&mlon=15.9075#map=12/48.7169/15.9075&layers=C">
                     Open Street Map</a> enth&auml;lt einige sch&ouml;ne Strecken zum Radfahren rund um Schrattenthal.
-            </p>
-            <p>
-                <i>"Erleben"</i> Sie das Werden des Weines von der Rebe bis ins Glas. Das vermitteln wir Ihnen bei Riedenwanderung und Kellerf&uuml;hrung.
             </p>
             <p>
                 F&uuml;r Ausfl&uuml;ge in die Umgebung bieten sich Pulkau, Eggenburg und etwas weiter entfernt die Bezirksst&auml;dte Retz,
