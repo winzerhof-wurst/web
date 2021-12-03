@@ -3,13 +3,13 @@
         <h1>Aktuelles</h1>
 
         <ContentTile>
-          <h2>Leserhahn</h2>
+          <h2>Winterschlaf</h2>
           <p>
-            An unserem letzten Lesetag wurde heute unser Traminer gelesen. Somit sind alle Trauben im Keller und die Ernte 2021 ist abgeschlossen. Wir freuen uns bereits auf die weiteren Arbeitsschritte im Keller um euch im Frühjahr unsere neuen Weine präsentieren zu können.
+            Schön langsam verfällt das Weinviertel in den Winterschlaf. Die Natur lässt ihr buntes Gewand fallen und es kehrt eine ruhigere Zeit ein - Zeit um es sich mit einem Gläschen Wein zuhause gemütlich zu machen.
           </p>
           <img class="img-fluid"
-                     :src="require('../../images/202110_leserhahn.jpg')"
-                     alt="Kürbisernte">
+                     :src="require('../../images/202112_winterschlaf.jpg')"
+                     alt="Winterschlaf">
         </ContentTile>
 
         <ContentTile>
