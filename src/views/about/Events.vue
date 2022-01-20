@@ -3,8 +3,31 @@
         <h1>Termine</h1>
 
         <ContentTile>
+          <h2>Weinviertel DAC Präsentation</h2>
           <p>
-            Auf Grund der derzeitigen Lage sind vorerst einige Veranstaltungen abgesagt oder verschoben. Wir bitten um Verständnis und freuen uns wenn wir uns wieder gesund bei einem Achterl treffen können bei dem ein oder anderen (verschobenen) Event.
+            26.4. Salzburg<br>
+            9.5. Linz
+          </p>
+        </ContentTile>
+
+        <ContentTile>
+          <h2>Weintour</h2>
+          <p>
+            23.-24.4.
+          </p>
+        </ContentTile>
+
+        <ContentTile>
+          <h2>Sommerkeller</h2>
+          <p>
+             11.8.
+          </p>
+        </ContentTile>
+
+        <ContentTile>
+          <h2>Tag der offenen Kellertür</h2>
+          <p>
+             11.-14.8.
           </p>
         </ContentTile>
 
