@@ -3,6 +3,16 @@
         <h1>Aktuelles</h1>
 
         <ContentTile>
+          <h2>Schneiden und Anbinden</h2>
+          <p>
+            Die derzeitigen Arbeiten im Weingarten bilden die Basis f&uuml;r das heurige Weinjahr. Die Rebst&ouml;cke werden bis auf einen Trieb zur&uuml;ck geschnitten und anschlie&szlig;end am Draht fixiert.
+          </p>
+          <img class="img-fluid"
+                     :src="require('../../images/2022_anbinden.jpg')"
+                     alt="Winter">
+        </ContentTile>
+
+        <ContentTile>
           <h2>Frohe Weihnachten</h2>
           <p>
             Liebe Weinfreunde, wir bedanken uns für Ihre Treue und zahlreichen Bestellungen im heurigen Jahr und wünschen Ihnen und Ihrer Familie Frohe Weihnachten und alles Gute für 2022.
