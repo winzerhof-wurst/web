@@ -8,7 +8,7 @@
             Die derzeitigen Arbeiten im Weingarten bilden die Basis f&uuml;r das heurige Weinjahr. Die Rebst&ouml;cke werden bis auf einen Trieb zur&uuml;ck geschnitten und anschlie&szlig;end am Draht fixiert.
           </p>
           <img class="img-fluid"
-                     :src="require('../../images/2022_anbinden.jpg')"
+                     :src="require('../../images/2022_anbinden.jpeg')"
                      alt="Winter">
         </ContentTile>
 
