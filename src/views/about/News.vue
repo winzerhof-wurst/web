@@ -13,26 +13,6 @@
         </ContentTile>
 
         <ContentTile>
-          <h2>Frohe Weihnachten</h2>
-          <p>
-            Liebe Weinfreunde, wir bedanken uns für Ihre Treue und zahlreichen Bestellungen im heurigen Jahr und wünschen Ihnen und Ihrer Familie Frohe Weihnachten und alles Gute für 2022.
-          </p>
-          <img class="img-fluid"
-                     :src="require('../../images/202112_weihnachten.jpg')"
-                     alt="Winter">
-        </ContentTile>
-
-        <ContentTile>
-          <h2>Winterschlaf</h2>
-          <p>
-            Schön langsam verfällt das Weinviertel in den Winterschlaf. Die Natur lässt ihr buntes Gewand fallen und es kehrt eine ruhigere Zeit ein - Zeit um es sich mit einem Gläschen Wein zuhause gemütlich zu machen.
-          </p>
-          <img class="img-fluid"
-                     :src="require('../../images/202112_winterschlaf.jpg')"
-                     alt="Winterschlaf">
-        </ContentTile>
-
-        <ContentTile>
           <h2>Wir sind im Salon 2021</h2>
           <p>
             Unser Weinviertel DAC Hochsteiner 2020 hat sich in Österreichs härtestem Weinwettbewerb bewiesen und zählt nun zu den Besten 270 Weinen des Landes. Wir freuen uns riesig über diese Auszeichnung.
