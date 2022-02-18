@@ -5,7 +5,7 @@
         <ContentTile>
           <h2>Weinviertel DAC Präsentation</h2>
           <p>
-            Am 26. April 2022 k&ouml;nnen Sie im Designcenter Linz und am 9. Mai 2022 am amadeus terminal 2 unsere Weinviertel DAC 2021 verkosten. Wir freuen uns &uuml;ber Ihren Besuch.  N&auml;here Informationen zur Veranstaltung finden Sie unter <a href="https://www.weinvierteldac.at" target="_blank">weinvierteldac.at</a>.
+            Am 26. April 2022 k&ouml;nnen Sie am amadeus terminal 2 Salzburg und am 9. Mai 2022 im Designcenter Linz unsere Weinviertel DAC 2021 verkosten. Wir freuen uns &uuml;ber Ihren Besuch.  N&auml;here Informationen zur Veranstaltung finden Sie unter <a href="https://www.weinvierteldac.at" target="_blank">weinvierteldac.at</a>.
           <p>
             <i>
               26.4. in Salzburg<br>
