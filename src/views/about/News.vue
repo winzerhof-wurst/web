@@ -3,13 +3,13 @@
         <h1>Aktuelles</h1>
 
         <ContentTile>
-          <h2>Schneiden und Anbinden</h2>
+          <h2>Der neue Jahrgang</h2>
           <p>
-            Die derzeitigen Arbeiten im Weingarten bilden die Basis f&uuml;r das heurige Weinjahr. Die Rebst&ouml;cke werden bis auf einen Trieb zur&uuml;ck geschnitten und anschlie&szlig;end am Draht fixiert.
+            Heinz hat während seiner Kur wieder ausreichend Kraft getankt. Voller Tatendrang bereitet er gerade alles für die Abfüllung des neuen Jahrgangs vor. Unsere Veltliner werden demnächst wieder erhältlich sein.
           </p>
           <img class="img-fluid"
-                     :src="require('../../images/2022_anbinden.jpg')"
-                     alt="Winter">
+                     :src="require('../../images/202202_kraft.jpg')"
+                     alt="Tatendrang">
         </ContentTile>
 
         <ContentTile>
