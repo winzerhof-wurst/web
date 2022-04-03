@@ -19,6 +19,9 @@
           <p>
             Das Weinviertel &ouml;ffnet seine T&uuml;ren am 23. und 24. April 2022. Wir m&ouml;chten Sie in unseren gem&uuml;tlichen Innenhof einladen, unser gesamtes Sortiment zu verkosten.
           </p>
+          <img class="img-fluid"
+                     :src="require('../../images/2022_weintour.jpg')"
+                     alt="Weintour Weinviertel">
           <p>
             <i>23.-24.4.</i>
           </p>
